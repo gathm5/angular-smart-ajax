@@ -1,0 +1,30 @@
+{
+  "name": "angular-smart-ajax",
+  "version": "1.4.0",
+  "description": "Angular module to ajax network calls",
+  "main": "angular-smart-ajax.js",
+  "keywords": [
+    "Angular",
+    "$http",
+    "$resource",
+    "ajax",
+    "network"
+  ],
+  "dependencies": {
+    "angular": ">= 1.2.0",
+    "ng-websocket": "^0.2.1",
+    "ngstorage": "^0.3.0"
+  },
+  "authors": [
+    "Gautham Stalin"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/gautham1985/angular-smart-ajax",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
